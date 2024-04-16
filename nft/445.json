@@ -1,0 +1,13 @@
+{
+  "name": "Violet",
+  "description": "Violet Ticket #446 - Five tickets - purchasing this ticket you multiply your chances to win by 5! Each swirling with the depth of purple, drawing holders into a vortex of chance. Play the sound of NFT only when nobody home!",
+  "image": "https://s.getgems.io/nft/c/661acc59484c1def4b64965a/2/image.png",
+  "content_type": "video/mp4",
+  "content_url": "https://s.getgems.io/nft/c/661acc59484c1def4b64965a/2/video.mp4",
+  "attributes": [
+    {
+      "trait_type": "Chance",
+      "value": "x5"
+    }
+  ]
+}

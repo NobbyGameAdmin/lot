@@ -1,0 +1,13 @@
+{
+  "name": "Obsidian",
+  "description": "Obsidian Ticket #485 - Ten black tickets - purchasing this ticket you multiply your chances to win by 10! Tickets embarking the holder on a dark and mysterious journey through magical realms. Play the sound of NFT only when nobody home!",
+  "image": "https://s.getgems.io/nft/c/661acc59484c1def4b64965a/3/image.png",
+  "content_type": "video/mp4",
+  "content_url": "https://s.getgems.io/nft/c/661acc59484c1def4b64965a/3/video.mp4",
+  "attributes": [
+    {
+      "trait_type": "Chance",
+      "value": "x10"
+    }
+  ]
+}
