@@ -1,11 +1,9 @@
 {
-  "name": "Nobby.Game Fortune",
-  "description": "Embark on this secretive journey, and let the whispers of fortune guide your path to the unknown. Each NFT serves as a key to elusive treasures and arcane secrets, inviting holders to partake in events veiled in enchantment.",
-  "image": "https://s.getgems.io/nft/c/661e9ba6c64882c4fdf81916/edit/images/15456.jpg",
-  "cover_image": "https://s.getgems.io/nft/c/661e9ba6c64882c4fdf81916/cover/15454.png",
+  "name": "test_cms",
+  "description": "test_cms_desc",
+  "image": "https://i.getgems.io/wLDnq3bBULnbxkGUCTuIsEmH6YVV7lNuH10RX0LpqmI/rs:fill:200:200:1/g:ce/czM6Ly9nZXRnZW1zLXMzL25mdC1jb250ZW50LWNhY2hlL2l0ZW0vMWE1OTEzNWMtZmZlMS00NmZjLWFkNTgtNjA0YmU5ZjRlMTY4",
+  "cover_image": "https://i.getgems.io/wLDnq3bBULnbxkGUCTuIsEmH6YVV7lNuH10RX0LpqmI/rs:fill:200:200:1/g:ce/czM6Ly9nZXRnZW1zLXMzL25mdC1jb250ZW50LWNhY2hlL2l0ZW0vMWE1OTEzNWMtZmZlMS00NmZjLWFkNTgtNjA0YmU5ZjRlMTY4",
   "social_links": [
-    "https://twitter.com/nobbygame",
-    "https://t.me/nobbyofficial",
-    "https://nobby.game"
+    "https://google.com"
   ]
 }
