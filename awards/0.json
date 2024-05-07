@@ -1,0 +1,19 @@
+{
+  "name": "Gold Holder",
+  "description": "Lead the way in the Nobby Aristocracy. As a Gold SBT holder, wield influence and shape the project's future, guiding our collective endeavors with authority and vision.\nYou can't expect it to hang around all day, can you?",
+  "image": "https://s.getgems.io/nft/c/663a318c97cd3c08d4466529/0/image.png",
+  "content_type": "video/mp4",
+  "content_url": "https://s.getgems.io/nft/c/663a318c97cd3c08d4466529/0/video.mp4",
+  "attributes": [
+    {
+      "trait_type": "Tier",
+      "value": "Gold"
+    }
+  ],
+  "buttons": [
+    {
+      "label": "Go to Site",
+      "uri": "https://nobby.game"
+    }
+  ]
+}
