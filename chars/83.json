@@ -1,0 +1,39 @@
+{
+  "name": "Diamond White Lea",
+  "description": "Lea shines with an ethereal brilliance, her icy elegance concealing secrets as old as time itself.",
+  "image": "https://s.getgems.io/nft/c/66866d08d276f92b6b5e10f7/1/image.png",
+  "content_type": "video/mp4",
+  "content_url": "https://s.getgems.io/nft/c/66866d08d276f92b6b5e10f7/1/video.mp4",
+    "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon (1/4)"
+    },
+    {
+      "trait_type": "Damage",
+      "value": "+12%"
+    },
+    {
+      "trait_type": "Armor",
+      "value": "+15"
+    },
+    {
+      "trait_type": "Active Income",
+      "value": "+16%"
+    },
+    {
+      "trait_type": "Passive Income",
+      "value": "+1.01x"
+    },
+    {
+      "trait_type": "Hours",
+      "value": "3"
+    }
+  ],
+  "buttons": [
+    {
+      "label": "Go to Site",
+      "uri": "https://nobby.game"
+    }
+  ]
+}

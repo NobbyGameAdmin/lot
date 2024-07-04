@@ -1,0 +1,39 @@
+{
+  "name": "Holy Paladin Alice",
+  "description": "Alice radiates a divine aura, her presence a beacon of righteous strength and sacred duty.",
+  "image": "https://s.getgems.io/nft/c/66866d08d276f92b6b5e10f7/15/image.png",
+  "content_type": "video/mp4",
+  "content_url": "https://s.getgems.io/nft/c/66866d08d276f92b6b5e10f7/15/video.mp4",
+    "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Mythic (3/4)"
+    },
+    {
+      "trait_type": "Damage",
+      "value": "+68%"
+    },
+    {
+      "trait_type": "Armor",
+      "value": "+63"
+    },
+    {
+      "trait_type": "Active Income",
+      "value": "+51%"
+    },
+    {
+      "trait_type": "Passive Income",
+      "value": "+9.98x"
+    },
+    {
+      "trait_type": "Hours",
+      "value": "15"
+    }
+  ],
+  "buttons": [
+    {
+      "label": "Go to Site",
+      "uri": "https://nobby.game"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Ranger Champion Margo",
+  "description": "Margo's lime green attire reflects her mastery of the wilderness, her presence infused with the spirit of the hunt.",
+  "image": "https://s.getgems.io/nft/c/66866d08d276f92b6b5e10f7/11/image.png",
+  "content_type": "video/mp4",
+  "content_url": "https://s.getgems.io/nft/c/66866d08d276f92b6b5e10f7/11/video.mp4",
+    "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Mythic (3/4)"
+    },
+    {
+      "trait_type": "Damage",
+      "value": "+51%"
+    },
+    {
+      "trait_type": "Armor",
+      "value": "+77"
+    },
+    {
+      "trait_type": "Active Income",
+      "value": "+74%"
+    },
+    {
+      "trait_type": "Passive Income",
+      "value": "+8.6x"
+    },
+    {
+      "trait_type": "Hours",
+      "value": "18"
+    }
+  ],
+  "buttons": [
+    {
+      "label": "Go to Site",
+      "uri": "https://nobby.game"
+    }
+  ]
+}

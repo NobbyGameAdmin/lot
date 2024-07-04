@@ -1,0 +1,39 @@
+{
+  "name": "Blood Witch Sofia",
+  "description": "Sofia's red and black ensemble pulses with dark magic, her crimson aura whispering tales of ancient power and forbidden rituals.",
+  "image": "https://s.getgems.io/nft/c/66866d08d276f92b6b5e10f7/13/image.png",
+  "content_type": "video/mp4",
+  "content_url": "https://s.getgems.io/nft/c/66866d08d276f92b6b5e10f7/13/video.mp4",
+    "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Mythic (3/4)"
+    },
+    {
+      "trait_type": "Damage",
+      "value": "+52%"
+    },
+    {
+      "trait_type": "Armor",
+      "value": "+70"
+    },
+    {
+      "trait_type": "Active Income",
+      "value": "+48%"
+    },
+    {
+      "trait_type": "Passive Income",
+      "value": "+10.28x"
+    },
+    {
+      "trait_type": "Hours",
+      "value": "13"
+    }
+  ],
+  "buttons": [
+    {
+      "label": "Go to Site",
+      "uri": "https://nobby.game"
+    }
+  ]
+}

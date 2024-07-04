@@ -1,0 +1,39 @@
+{
+  "name": "Ruby Red Alexandra",
+  "description": "Fiery and intense, Alexandra's aura blazes with ancient power, her crimson attire hiding a world of enchantment.",
+  "image": "https://s.getgems.io/nft/c/66866d08d276f92b6b5e10f7/2/image.png",
+  "content_type": "video/mp4",
+  "content_url": "https://s.getgems.io/nft/c/66866d08d276f92b6b5e10f7/2/video.mp4",
+    "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon (1/4)"
+    },
+    {
+      "trait_type": "Damage",
+      "value": "+13%"
+    },
+    {
+      "trait_type": "Armor",
+      "value": "+10"
+    },
+    {
+      "trait_type": "Active Income",
+      "value": "+10%"
+    },
+    {
+      "trait_type": "Passive Income",
+      "value": "+2.77x"
+    },
+    {
+      "trait_type": "Hours",
+      "value": "6"
+    }
+  ],
+  "buttons": [
+    {
+      "label": "Go to Site",
+      "uri": "https://nobby.game"
+    }
+  ]
+}

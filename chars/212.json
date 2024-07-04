@@ -1,0 +1,39 @@
+{
+  "name": "Eastern Sky Taylor",
+  "description": "Taylor carries the wild spirit of the sky and the fierce power of the tiger.",
+  "image": "https://s.getgems.io/nft/c/66866d08d276f92b6b5e10f7/7/image.png",
+  "content_type": "video/mp4",
+  "content_url": "https://s.getgems.io/nft/c/66866d08d276f92b6b5e10f7/7/video.mp4",
+    "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare (2/4)"
+    },
+    {
+      "trait_type": "Damage",
+      "value": "+27%"
+    },
+    {
+      "trait_type": "Armor",
+      "value": "+22"
+    },
+    {
+      "trait_type": "Active Income",
+      "value": "+30%"
+    },
+    {
+      "trait_type": "Passive Income",
+      "value": "+5.55x"
+    },
+    {
+      "trait_type": "Hours",
+      "value": "10"
+    }
+  ],
+  "buttons": [
+    {
+      "label": "Go to Site",
+      "uri": "https://nobby.game"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Forest Light Abigail",
+  "description": "Abigail, channels the whispers of the woods and the secrets they guard.",
+  "image": "https://s.getgems.io/nft/c/66866d08d276f92b6b5e10f7/6/image.png",
+  "content_type": "video/mp4",
+  "content_url": "https://s.getgems.io/nft/c/66866d08d276f92b6b5e10f7/6/video.mp4",
+    "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare (2/4)"
+    },
+    {
+      "trait_type": "Damage",
+      "value": "+25%"
+    },
+    {
+      "trait_type": "Armor",
+      "value": "+27"
+    },
+    {
+      "trait_type": "Active Income",
+      "value": "+35%"
+    },
+    {
+      "trait_type": "Passive Income",
+      "value": "+5.25x"
+    },
+    {
+      "trait_type": "Hours",
+      "value": "11"
+    }
+  ],
+  "buttons": [
+    {
+      "label": "Go to Site",
+      "uri": "https://nobby.game"
+    }
+  ]
+}

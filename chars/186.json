@@ -1,0 +1,39 @@
+{
+  "name": "Lime Candy Maya",
+  "description": "Maya's vibrant green and lime ensemble pulses with the energy of spring, her presence a beacon of renewal and vitality.",
+  "image": "https://s.getgems.io/nft/c/66866d08d276f92b6b5e10f7/5/image.png",
+  "content_type": "video/mp4",
+  "content_url": "https://s.getgems.io/nft/c/66866d08d276f92b6b5e10f7/5/video.mp4",
+    "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare (2/4)"
+    },
+    {
+      "trait_type": "Damage",
+      "value": "+31%"
+    },
+    {
+      "trait_type": "Armor",
+      "value": "+23"
+    },
+    {
+      "trait_type": "Active Income",
+      "value": "+22%"
+    },
+    {
+      "trait_type": "Passive Income",
+      "value": "+3.12x"
+    },
+    {
+      "trait_type": "Hours",
+      "value": "7"
+    }
+  ],
+  "buttons": [
+    {
+      "label": "Go to Site",
+      "uri": "https://nobby.game"
+    }
+  ]
+}

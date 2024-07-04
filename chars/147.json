@@ -1,0 +1,39 @@
+{
+  "name": "Pink Amethyst Leyla",
+  "description": "Leyla exudes a delicate yet potent charm, her soft hues weaving spells of love and mystery.",
+  "image": "https://s.getgems.io/nft/c/66866d08d276f92b6b5e10f7/3/image.png",
+  "content_type": "video/mp4",
+  "content_url": "https://s.getgems.io/nft/c/66866d08d276f92b6b5e10f7/3/video.mp4",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon (1/4)"
+    },
+    {
+      "trait_type": "Damage",
+      "value": "+14%"
+    },
+    {
+      "trait_type": "Armor",
+      "value": "+14"
+    },
+    {
+      "trait_type": "Active Income",
+      "value": "+18%"
+    },
+    {
+      "trait_type": "Passive Income",
+      "value": "+1.8x"
+    },
+    {
+      "trait_type": "Hours",
+      "value": "5"
+    }
+  ],
+  "buttons": [
+    {
+      "label": "Go to Site",
+      "uri": "https://nobby.game"
+    }
+  ]
+}

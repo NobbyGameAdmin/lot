@@ -1,0 +1,39 @@
+{
+  "name": "Wavy Flame Scarlett",
+  "description": "Scarlett's fiery spirit blazes through her red leather attire, concealing ancient flames ready to be unleashed.",
+  "image": "https://s.getgems.io/nft/c/66866d08d276f92b6b5e10f7/9/image.png",
+  "content_type": "video/mp4",
+  "content_url": "https://s.getgems.io/nft/c/66866d08d276f92b6b5e10f7/9/video.mp4",
+    "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare (2/4)"
+    },
+    {
+      "trait_type": "Damage",
+      "value": "+40%"
+    },
+    {
+      "trait_type": "Armor",
+      "value": "+29"
+    },
+    {
+      "trait_type": "Active Income",
+      "value": "+37%"
+    },
+    {
+      "trait_type": "Passive Income",
+      "value": "+5.67x"
+    },
+    {
+      "trait_type": "Hours",
+      "value": "8"
+    }
+  ],
+  "buttons": [
+    {
+      "label": "Go to Site",
+      "uri": "https://nobby.game"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Force of Nature Viktoria",
+  "description": "Viktoria pulses with the raw energy of the earth and sky. Her black hair and blue eyes reflect the unstoppable power of the natural world, channeled through her every action.",
+  "image": "https://s.getgems.io/nft/c/66866d08d276f92b6b5e10f7/18/image.png",
+  "content_type": "video/mp4",
+  "content_url": "https://s.getgems.io/nft/c/66866d08d276f92b6b5e10f7/18/video.mp4",
+    "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary (4/4)"
+    },
+    {
+      "trait_type": "Damage",
+      "value": "+135%"
+    },
+    {
+      "trait_type": "Armor",
+      "value": "+81"
+    },
+    {
+      "trait_type": "Active Income",
+      "value": "+90%"
+    },
+    {
+      "trait_type": "Passive Income",
+      "value": "+19.07x"
+    },
+    {
+      "trait_type": "Hours",
+      "value": "33"
+    }
+  ],
+  "buttons": [
+    {
+      "label": "Go to Site",
+      "uri": "https://nobby.game"
+    }
+  ]
+}

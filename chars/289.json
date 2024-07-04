@@ -1,0 +1,39 @@
+{
+  "name": "Aztec Gold Rihanna",
+  "description": "Rihanna exudes regal mystery and ancient power. Her purple eyes and intricate attire speak of forgotten treasures and timeless wisdom.",
+  "image": "https://s.getgems.io/nft/c/66866d08d276f92b6b5e10f7/17/image.png",
+  "content_type": "video/mp4",
+  "content_url": "https://s.getgems.io/nft/c/66866d08d276f92b6b5e10f7/17/video.mp4",
+    "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary (4/4)"
+    },
+    {
+      "trait_type": "Damage",
+      "value": "+104%"
+    },
+    {
+      "trait_type": "Armor",
+      "value": "+103"
+    },
+    {
+      "trait_type": "Active Income",
+      "value": "+87%"
+    },
+    {
+      "trait_type": "Passive Income",
+      "value": "+12.56x"
+    },
+    {
+      "trait_type": "Hours",
+      "value": "40"
+    }
+  ],
+  "buttons": [
+    {
+      "label": "Go to Site",
+      "uri": "https://nobby.game"
+    }
+  ]
+}

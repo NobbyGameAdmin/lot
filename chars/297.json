@@ -1,0 +1,39 @@
+{
+  "name": "Wormhole Horror Angelina",
+  "description": "Angelina wields the terror of the unknown. Her eyes blaze with the intensity of a thousand stars, her presence a gateway to the most profound fears and darkest mysteries.",
+  "image": "https://s.getgems.io/nft/c/66866d08d276f92b6b5e10f7/19/image.png",
+  "content_type": "video/mp4",
+  "content_url": "https://s.getgems.io/nft/c/66866d08d276f92b6b5e10f7/19/video.mp4",
+    "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary (4/4)"
+    },
+    {
+      "trait_type": "Damage",
+      "value": "+152%"
+    },
+    {
+      "trait_type": "Armor",
+      "value": "+96"
+    },
+    {
+      "trait_type": "Active Income",
+      "value": "+128%"
+    },
+    {
+      "trait_type": "Passive Income",
+      "value": "+13.85x"
+    },
+    {
+      "trait_type": "Hours",
+      "value": "42"
+    }
+  ],
+  "buttons": [
+    {
+      "label": "Go to Site",
+      "uri": "https://nobby.game"
+    }
+  ]
+}

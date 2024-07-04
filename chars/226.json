@@ -1,0 +1,39 @@
+{
+  "name": "Flower Honey Marianna",
+  "description": "Marianna's warm hues and floral patterns exude the sweetness of summer, her charm weaving spells of comfort and allure.",
+  "image": "https://s.getgems.io/nft/c/66866d08d276f92b6b5e10f7/8/image.png",
+  "content_type": "video/mp4",
+  "content_url": "https://s.getgems.io/nft/c/66866d08d276f92b6b5e10f7/8/video.mp4",
+    "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare (2/4)"
+    },
+    {
+      "trait_type": "Damage",
+      "value": "+26%"
+    },
+    {
+      "trait_type": "Armor",
+      "value": "+33"
+    },
+    {
+      "trait_type": "Active Income",
+      "value": "+36%"
+    },
+    {
+      "trait_type": "Passive Income",
+      "value": "+3.03x"
+    },
+    {
+      "trait_type": "Hours",
+      "value": "10"
+    }
+  ],
+  "buttons": [
+    {
+      "label": "Go to Site",
+      "uri": "https://nobby.game"
+    }
+  ]
+}
